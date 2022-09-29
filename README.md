@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/92051961/189161616-b10804c9-9894-4f72-b9a8-bcda1c01670e.png)
+![image](https://user-images.githubusercontent.com/92051961/193069050-fe301655-0780-486e-9539-7c2b3a6f4cc1.png)
 # Description
 A simple united application we can add posts with (title, author, content), and we can delete them. The date when this post was created is displayed next to each post
 # Installation
